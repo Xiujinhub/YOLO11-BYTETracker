@@ -262,7 +262,7 @@ class Args:
     fps= 50
     counts = 50
     # model
-    model_path = r"weights\best.pt"
+    model_path = r"weight\best.pt"
     input_size = (640, 640)
     fp16 = False  # cpu no half
     # tracker
