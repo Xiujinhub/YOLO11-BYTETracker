@@ -276,5 +276,3 @@ class Args:
 if __name__ == "__main__":
     # args = make_parser().parse_args()
     args = Args()
-    main(args)
-    # python3 tools/demo_track.py video -f exps/example/mot/yolox_x_mix_det.py  --fp16 --fuse --save_result
